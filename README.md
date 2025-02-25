@@ -3,7 +3,7 @@
 
 ## 📖 Sobre o Projeto 
 Projeto desenvolvido com o <a href="https://rodolfomori.com.br/devclub" target="_blank">DevClub</a>. 
-Disponível em: 
+- Disponível em: https://cafe-verde.netlify.app/
 
 ## 🚀 Tecnologias Utilizadas
 <div style="display: inline_block">
